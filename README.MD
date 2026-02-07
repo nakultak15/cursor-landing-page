@@ -11,7 +11,7 @@ Original Website: https://cursor.com/
 ## 🌐 Live Demo
 
 🔗 Live Preview:  
-https://dev-tool-landing-page-cursor-clone.netlify.app/
+https://cursor-documentation.netlify.app/
 
 ---
 
